@@ -1,9 +1,9 @@
-import Image from './image.jsx';
+import Pagination from "./pagination";
 
 function App() {
   return (
     <div>
-      <Image />
+      <Pagination />
     </div>
   );
 }
